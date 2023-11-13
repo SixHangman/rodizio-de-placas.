@@ -1,0 +1,8 @@
+body{
+    margin: 0px;
+    background-color:black;
+    color:rgb(20, 19, 19);
+    text-align: center;
+    background: radial-gradient(rgb(180, 155, 15),rgba(19, 8, 226, 0.811));
+    height: max-content;
+}
